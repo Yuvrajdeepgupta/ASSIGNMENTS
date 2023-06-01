@@ -10,7 +10,7 @@ public class PROG_1
 			System.out.println("Please enter a no. greater than 2!");
 		}
 		
-		int temp=0,k=0;
+		int temp=0;
 		while(a>2)
 		{
 			a=a/2;
